@@ -3,9 +3,9 @@
 The project is developed as part of Computer Architecture class
 Project Name: Functional Simulator for subset of ARM Processor
 
-Developer's Name:
-Developer's Email id:
-Date: 
+Developer's Name: Mansi Goel, Taneea S Agrawaal
+Developer's Email id: mansi14062@iiitd.ac.in, taneea14166@iiitd.ac.in
+Date: 31.03.2015
 
 */
 
